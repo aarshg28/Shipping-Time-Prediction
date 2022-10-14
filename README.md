@@ -13,21 +13,21 @@ Data Structure :
 
 columns
 
-ActualShippingDays
-Carrier
-YShippingDistance
-XShippingDistance
-ExpectedShippingDays
-InBulkOrder
-ShippingOrigin
-OrderDate
-OrderID
-ShippingPriority
-OnTimeDelivery
-ProductId
-ComputerBrand
-ComputerModel
-ScreenSize
+ActualShippingDays,
+Carrier,
+YShippingDistance,
+XShippingDistance,
+ExpectedShippingDays,
+InBulkOrder,
+ShippingOrigin,
+OrderDate,
+OrderID,
+ShippingPriority,
+OnTimeDelivery,
+ProductId,
+ComputerBrand,
+ComputerModel,
+ScreenSize,
 PackageWeight
 
 
