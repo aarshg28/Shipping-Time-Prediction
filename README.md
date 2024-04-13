@@ -12,7 +12,7 @@ Overview:
 1. Led end-to-end ETL for supply chain health commodity shipment and pricing data, enhancing global spending insights.
 2. Conducted exploratory data analysis and dashboard creation for data distribution across countries, delivery types, and vendor pricing.
 3. Implemented data preparation, including date column conversion and feature engineering, optimizing for Amazon SageMaker.
-4. Utilized T ensorFlow for analytics, achieving a training RMSE of 25.86 and a test RMSE of 24.73. Addressed data challenges, including impure values and missing data, mitigating bias through data cleaning and imputation.
+4. Utilized TensorFlow for analytics, achieving a training RMSE of 25.86 and a test RMSE of 24.73. Addressed data challenges, including impure values and missing data, mitigating bias through data cleaning and imputation.
 
 Data Structure : 
 
